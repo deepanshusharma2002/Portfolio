@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.dacffd22.css",
+    "main.js": "/Portfolio/static/js/main.49c60026.js",
+    "static/media/portfolio-6.png": "/Portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/Portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/Portfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/Portfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/Portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/Portfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/logo1.ico": "/Portfolio/static/media/logo1.2b83331830199e545a49.ico",
+    "static/media/log.png": "/Portfolio/static/media/log.4ab93f42a274cdd17058.png",
+    "static/media/ui-design.png": "/Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Portfolio/index.html",
+    "main.dacffd22.css.map": "/Portfolio/static/css/main.dacffd22.css.map",
+    "main.49c60026.js.map": "/Portfolio/static/js/main.49c60026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dacffd22.css",
+    "static/js/main.49c60026.js"
+  ]
+}
